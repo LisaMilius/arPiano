@@ -3,30 +3,12 @@
 
     <item
         is-multidex="false"
-        jar="/Users/lisa/.android/build-cache/b32e2039ed5e6f97adf85af79adbefd19e488c7f/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.3"
-        sha1="e29373b760f2999cd878625efe4641edd156a3d0">
-        <dex dex="/Users/lisa/AR_Piano/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_622ee3dd0f57445efcbcd145a3ead2b78fb9b2c2.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/lisa/.android/build-cache/b32e2039ed5e6f97adf85af79adbefd19e488c7f/output/jars/libs/VuforiaUnityPlayer.jar"
+        jar="/Users/lisa/.android/build-cache/b52f9048915fb04b3aba49d121297f0be52836be/output/jars/libs/VuforiaUnityPlayer.jar"
         jumboMode="false"
         optimize="true"
         revision="27.0.3"
         sha1="1e5c98f1d2f1973f9a08b7849f319bcb135fe8c3">
-        <dex dex="/Users/lisa/AR_Piano/Temp/gradleOut/build/intermediates/pre-dexed/release/VuforiaUnityPlayer_1e9b045b8b543ab65d858b092f1b2de5097f45b0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/lisa/.android/build-cache/b32e2039ed5e6f97adf85af79adbefd19e488c7f/output/jars/libs/Vuforia.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.3"
-        sha1="6051ae41196664b2d1144cd0f1e5626d09390520">
-        <dex dex="/Users/lisa/AR_Piano/Temp/gradleOut/build/intermediates/pre-dexed/release/Vuforia_9559706bc9b43ffdd23358a605ba0f31cf46e9a3.jar" />
+        <dex dex="/Users/lisa/AR_Piano/Temp/gradleOut/build/intermediates/pre-dexed/release/VuforiaUnityPlayer_bf8f5660e6ec7ddaf7ac5aeda8404b6178edcf05.jar" />
     </item>
     <item
         is-multidex="false"
@@ -45,6 +27,24 @@
         revision="27.0.3"
         sha1="2d302418aa3482b8db770278260340aed47dd37a">
         <dex dex="/Users/lisa/AR_Piano/Temp/gradleOut/build/intermediates/pre-dexed/release/unity-classes_562ca2f06800f7715af00b51caa6aee5415937f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lisa/.android/build-cache/b52f9048915fb04b3aba49d121297f0be52836be/output/jars/libs/Vuforia.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6051ae41196664b2d1144cd0f1e5626d09390520">
+        <dex dex="/Users/lisa/AR_Piano/Temp/gradleOut/build/intermediates/pre-dexed/release/Vuforia_f62aeca139fe0fff796097fae59299694f91afad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lisa/.android/build-cache/b52f9048915fb04b3aba49d121297f0be52836be/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e29373b760f2999cd878625efe4641edd156a3d0">
+        <dex dex="/Users/lisa/AR_Piano/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_9ec667011f193c14f8bb7790a61c01e2d7c74cd8.jar" />
     </item>
 
 </items>

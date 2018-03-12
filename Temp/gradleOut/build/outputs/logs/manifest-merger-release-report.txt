@@ -21,7 +21,7 @@ ADDED from /Users/lisa/AR_Piano/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-
 		ADDED from /Users/lisa/AR_Piano/Temp/gradleOut/src/main/AndroidManifest.xml:2:92-139
 uses-sdk
 ADDED from /Users/lisa/AR_Piano/Temp/gradleOut/src/main/AndroidManifest.xml:3:3-72
-MERGED from [:VuforiaWrapper:] /Users/lisa/.android/build-cache/b32e2039ed5e6f97adf85af79adbefd19e488c7f/output/AndroidManifest.xml:8:5-10:41
+MERGED from [:VuforiaWrapper:] /Users/lisa/.android/build-cache/b52f9048915fb04b3aba49d121297f0be52836be/output/AndroidManifest.xml:8:5-10:41
 	android:targetSdkVersion
 		ADDED from /Users/lisa/AR_Piano/Temp/gradleOut/src/main/AndroidManifest.xml:3:40-69
 		INJECTED from /Users/lisa/AR_Piano/Temp/gradleOut/src/main/AndroidManifest.xml
@@ -30,7 +30,7 @@ MERGED from [:VuforiaWrapper:] /Users/lisa/.android/build-cache/b32e2039ed5e6f97
 		ADDED from /Users/lisa/AR_Piano/Temp/gradleOut/src/main/AndroidManifest.xml:3:13-39
 uses-feature#android.hardware.camera
 ADDED from /Users/lisa/AR_Piano/Temp/gradleOut/src/main/AndroidManifest.xml:4:3-58
-MERGED from [:VuforiaWrapper:] /Users/lisa/.android/build-cache/b32e2039ed5e6f97adf85af79adbefd19e488c7f/output/AndroidManifest.xml:12:5-60
+MERGED from [:VuforiaWrapper:] /Users/lisa/.android/build-cache/b52f9048915fb04b3aba49d121297f0be52836be/output/AndroidManifest.xml:12:5-60
 	android:name
 		ADDED from /Users/lisa/AR_Piano/Temp/gradleOut/src/main/AndroidManifest.xml:4:17-55
 supports-screens
@@ -47,22 +47,22 @@ ADDED from /Users/lisa/AR_Piano/Temp/gradleOut/src/main/AndroidManifest.xml:5:3-
 		ADDED from /Users/lisa/AR_Piano/Temp/gradleOut/src/main/AndroidManifest.xml:5:135-160
 uses-permission#android.permission.INTERNET
 ADDED from /Users/lisa/AR_Piano/Temp/gradleOut/src/main/AndroidManifest.xml:6:3-65
-MERGED from [:VuforiaWrapper:] /Users/lisa/.android/build-cache/b32e2039ed5e6f97adf85af79adbefd19e488c7f/output/AndroidManifest.xml:14:5-67
+MERGED from [:VuforiaWrapper:] /Users/lisa/.android/build-cache/b52f9048915fb04b3aba49d121297f0be52836be/output/AndroidManifest.xml:14:5-67
 	android:name
 		ADDED from /Users/lisa/AR_Piano/Temp/gradleOut/src/main/AndroidManifest.xml:6:20-62
 uses-permission#android.permission.CAMERA
 ADDED from /Users/lisa/AR_Piano/Temp/gradleOut/src/main/AndroidManifest.xml:7:3-63
-MERGED from [:VuforiaWrapper:] /Users/lisa/.android/build-cache/b32e2039ed5e6f97adf85af79adbefd19e488c7f/output/AndroidManifest.xml:15:5-65
+MERGED from [:VuforiaWrapper:] /Users/lisa/.android/build-cache/b52f9048915fb04b3aba49d121297f0be52836be/output/AndroidManifest.xml:15:5-65
 	android:name
 		ADDED from /Users/lisa/AR_Piano/Temp/gradleOut/src/main/AndroidManifest.xml:7:20-60
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from /Users/lisa/AR_Piano/Temp/gradleOut/src/main/AndroidManifest.xml:8:3-77
-MERGED from [:VuforiaWrapper:] /Users/lisa/.android/build-cache/b32e2039ed5e6f97adf85af79adbefd19e488c7f/output/AndroidManifest.xml:16:5-79
+MERGED from [:VuforiaWrapper:] /Users/lisa/.android/build-cache/b52f9048915fb04b3aba49d121297f0be52836be/output/AndroidManifest.xml:16:5-79
 	android:name
 		ADDED from /Users/lisa/AR_Piano/Temp/gradleOut/src/main/AndroidManifest.xml:8:20-74
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
 ADDED from /Users/lisa/AR_Piano/Temp/gradleOut/src/main/AndroidManifest.xml:9:3-79
-MERGED from [:VuforiaWrapper:] /Users/lisa/.android/build-cache/b32e2039ed5e6f97adf85af79adbefd19e488c7f/output/AndroidManifest.xml:17:5-81
+MERGED from [:VuforiaWrapper:] /Users/lisa/.android/build-cache/b52f9048915fb04b3aba49d121297f0be52836be/output/AndroidManifest.xml:17:5-81
 	android:name
 		ADDED from /Users/lisa/AR_Piano/Temp/gradleOut/src/main/AndroidManifest.xml:9:20-76
 meta-data#com.osterhoutgroup.display_mode
@@ -73,11 +73,11 @@ ADDED from /Users/lisa/AR_Piano/Temp/gradleOut/src/main/AndroidManifest.xml:10:3
 		ADDED from /Users/lisa/AR_Piano/Temp/gradleOut/src/main/AndroidManifest.xml:10:14-60
 application
 ADDED from /Users/lisa/AR_Piano/Temp/gradleOut/src/main/AndroidManifest.xml:11:3-36:17
-MERGED from [:VuforiaWrapper:] /Users/lisa/.android/build-cache/b32e2039ed5e6f97adf85af79adbefd19e488c7f/output/AndroidManifest.xml:19:5-25:19
+MERGED from [:VuforiaWrapper:] /Users/lisa/.android/build-cache/b52f9048915fb04b3aba49d121297f0be52836be/output/AndroidManifest.xml:19:5-25:19
 	android:label
 		ADDED from /Users/lisa/AR_Piano/Temp/gradleOut/src/main/AndroidManifest.xml:11:50-82
 	android:debuggable
-		ADDED from [:VuforiaWrapper:] /Users/lisa/.android/build-cache/b32e2039ed5e6f97adf85af79adbefd19e488c7f/output/AndroidManifest.xml:19:18-44
+		ADDED from [:VuforiaWrapper:] /Users/lisa/.android/build-cache/b52f9048915fb04b3aba49d121297f0be52836be/output/AndroidManifest.xml:19:18-44
 	android:icon
 		ADDED from /Users/lisa/AR_Piano/Temp/gradleOut/src/main/AndroidManifest.xml:11:16-49
 	android:banner
@@ -138,7 +138,7 @@ ADDED from /Users/lisa/AR_Piano/Temp/gradleOut/src/main/AndroidManifest.xml:27:5
 		ADDED from /Users/lisa/AR_Piano/Temp/gradleOut/src/main/AndroidManifest.xml:27:19-44
 uses-library#com.osterhoutgroup.api.ext
 ADDED from /Users/lisa/AR_Piano/Temp/gradleOut/src/main/AndroidManifest.xml:31:5-88
-MERGED from [:VuforiaWrapper:] /Users/lisa/.android/build-cache/b32e2039ed5e6f97adf85af79adbefd19e488c7f/output/AndroidManifest.xml:22:9-24:40
+MERGED from [:VuforiaWrapper:] /Users/lisa/.android/build-cache/b52f9048915fb04b3aba49d121297f0be52836be/output/AndroidManifest.xml:22:9-24:40
 	android:required
 		ADDED from /Users/lisa/AR_Piano/Temp/gradleOut/src/main/AndroidManifest.xml:31:61-85
 	android:name
